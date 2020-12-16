@@ -7,7 +7,7 @@ Hi, I'm Patrick Petrus Polii, web dev entusiast from Indonesia.
 - Web Development
 - UI/UX
 
-## Skills
+## Programming Languange and Technologies
 
 <img src="https://img.shields.io/badge/HTML5-ff7851" /> <img src="https://img.shields.io/badge/CSS3-44b2fb" /> <img src="https://img.shields.io/badge/Bootstrap -563d7c" />
 <img src="https://img.shields.io/badge/Vue -41b883" /> <img src="https://img.shields.io/badge/ReactJS -61DBFB"/> <img src="https://img.shields.io/badge/JavaScript -ffc742" /> 
