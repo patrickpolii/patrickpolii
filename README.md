@@ -10,7 +10,7 @@ Hi, I'm Patrick Petrus Polii, web dev entusiast from Indonesia.
 ## Programming Languange and Technologies
 
 <img src="https://img.shields.io/badge/HTML5-ff7851" /> <img src="https://img.shields.io/badge/CSS3-44b2fb" /> <img src="https://img.shields.io/badge/Bootstrap -563d7c" />
-<img src="https://img.shields.io/badge/.NET-41b883" /> <img src="https://img.shields.io/badge/.NET -61DBFB"/> <img src="https://img.shields.io/badge/JavaScript -ffc742" /> 
+<img src="https://img.shields.io/badge/.NET-41b883" /> <img src="https://img.shields.io/badge/C# -61DBFB"/> <img src="https://img.shields.io/badge/JavaScript -ffc742" /> 
 <img src="https://img.shields.io/badge/PHP -787CB5" /> <img src="https://img.shields.io/badge/Laravel -F05340" /> <img src="https://img.shields.io/badge/-MySQL-brightgreen" /> 
  
 
