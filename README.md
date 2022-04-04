@@ -4,8 +4,8 @@ Hi, I'm Patrick Petrus Polii, web dev entusiast from Indonesia.
 
 ## I am passionate about:
 
+- Software Enginerr
 - Web Development
-- UI/UX
 
 ## Programming Languange and Technologies
 
